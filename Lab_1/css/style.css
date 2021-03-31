@@ -1,0 +1,49 @@
+.red-text {
+    color: red;
+}
+
+
+h2 {
+    font-family: Caveat, monospace;
+    font-size: 40px;
+    color: #2D45AD;
+}
+
+body {
+    background-color: #B3C1FF;
+}
+
+p {
+    font-size: 10px;
+    color: #B3C1FF;
+    font-family: Caveat, monospace;
+}
+
+.thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+.smaller-image {
+    width: 100px;
+}
+
+#cat-photo-form {
+    background-color: green;
+    margin: 20px;
+}
+
+.silver-background {
+    background-color: silver;
+}
+th, td {
+    border: 1px solid black;
+    padding: 15px;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 5px;
+}
